@@ -7,7 +7,7 @@ import {getFirestore,query,getDocs,collection,where,addDoc,} from "firebase/fire
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyB-enUk86_DhcYpH7fCs8JJ9JKVTVY-ra0",
+    apiKey: "",
     authDomain: "smart-cafe-90203.firebaseapp.com",
     projectId: "smart-cafe-90203",
     storageBucket: "smart-cafe-90203.appspot.com",
