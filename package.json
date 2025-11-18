@@ -47,7 +47,7 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
+  "devDependencies": { 
     "terser-webpack-plugin": "^5.3.14"
   }
 }
