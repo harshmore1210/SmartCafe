@@ -1,6 +1,6 @@
 import React from 'react'
 // import Skeleton from '@mui/material/Skeleton';
-import Stack from '@mui/material/Stack/Stack.js';
+import Stack from '@mui/material/Stack';
 import Skeleton from '@mui/material/Skeleton';
 // or
 // import { Skeleton } from '@mui/material';
